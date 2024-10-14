@@ -1,5 +1,6 @@
 Platform - Teknologi Yang Digunakan
 Penggunaan berbagai paltform dan teknologi untuk menghadirkan user interprise dan user experience dalam website biorama yang efektif dan kolaboratif bagi para pengguna. Ini memungkinkan website dibangun memenuhi kebutuhan pengguna yang beragam baik pengguna umum dan pengguna disabilitas,  Beberapa Penggunaan teknologi software dan hardware pada website ini:
+
 •	Software
 1.	Platform 
 a)	Website Dinas Tenaga Kerja, Koperasi, dan Usaha Kecil Menengah (Dinnakerkop UKM) Kabupaten Banyumas 
