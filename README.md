@@ -38,5 +38,5 @@ a)	API wilayah Indonesia (https://ibnux.github.io/data-indonesia/provinsi.json)
 
 LINK DEMONTRASI WEBSITE BIORAMA
 -
+https://biorama-organicplacemaking.vercel.app/index.html
 
--
