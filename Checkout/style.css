@@ -15,9 +15,12 @@
 }
 
 @media (min-width: 992px) {
-  .hero-header,
   .page-header {
     margin-top: 152px !important;
+  }
+
+  .hero-header {
+    margin-top: 30px;
   }
 }
 
@@ -27,9 +30,7 @@
     margin-top: 97px !important;
   }
 }
-/*** Hero Header end ***/
 
-/*** featurs Start ***/
 .featurs .featurs-item .featurs-icon {
   position: relative;
   width: 120px;
