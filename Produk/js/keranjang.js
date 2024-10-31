@@ -22,7 +22,6 @@ function addToCart(productName, price, imageUrl) {
     totalPrice += price * quantity;
   }
 
-
   updateCartSidebar();
   updateCartCount(); // Memperbarui  notifikasi di keranjnag
 }
@@ -70,4 +69,5 @@ function updateCartCount() {
 
 function checkout() {
   alert("Proceeding to checkout...");
+  window.location.href = "/Checkout/chackout.html";
 }

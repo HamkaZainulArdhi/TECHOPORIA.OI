@@ -14,6 +14,40 @@
   background-color: rgba(0, 0, 0, 0.201);
 }
 
+.popup-overlay {
+  display: none; /* Awalnya disembunyikan */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Warna gelap transparan */
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+/* Gaya untuk isi pop-up */
+.popup-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 300px;
+  width: 80%;
+}
+
+/* Gaya tombol tutup */
+.close-btn {
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
 @media (min-width: 992px) {
   .page-header {
     margin-top: 152px !important;
@@ -27,7 +61,7 @@
 @media (max-width: 992px) {
   .hero-header,
   .page-header {
-    margin-top: 97px !important;
+    margin-top: 140px !important;
   }
 }
 
